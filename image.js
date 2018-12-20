@@ -176,20 +176,3 @@ result = {
 for (var title in result) {
         separateContent(title, result[title])
 }
-
-//printjson(sizeSummary)
-//separateContent("sizeSummary", sizeSummary)
-////printjson("numSummary")
-//separateContent("numSummary",numSummary)
-////printjson("sizeDaliy")
-////printjson(sizeDaliy)
-////printjson("numDaliy")
-////printjson(numDaliy)
-////printjson("sizePeak")
-//separateContent("sizePeak",sizePeak)
-//printjson("numPeak")
-//printjson(numPeak)
-//printjson("sizeAvg")
-//printjson(sizeAvg)
-//printjson("numAvg")
-//printjson(numAvg)
